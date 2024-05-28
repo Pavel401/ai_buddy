@@ -71,7 +71,7 @@ class WelcomePage extends StatelessWidget {
                           mainAxisSize: MainAxisSize.min,
                           children: [
                             Text(
-                              'Personal AI Buddy',
+                              'StudySage',
                               style: TextStyle(
                                 color: context.colorScheme.background,
                                 fontSize: 14,

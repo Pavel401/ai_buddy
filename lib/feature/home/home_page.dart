@@ -175,7 +175,7 @@ class _HomePageState extends ConsumerState<HomePage> {
                                 mainAxisSize: MainAxisSize.min,
                                 children: [
                                   Text(
-                                    'Personal AI Buddy',
+                                    'StudySage',
                                     style: TextStyle(
                                       color: context.colorScheme.background,
                                       fontSize: 14,
@@ -334,7 +334,7 @@ class _HomePageState extends ConsumerState<HomePage> {
                                   ),
                                   const SizedBox(height: 8),
                                   CardButton(
-                                    title: 'Ask Image',
+                                    title: 'Chat with Image',
                                     color: context.colorScheme.tertiary,
                                     imagePath: AssetConstants.imageLogo,
                                     isMainButton: false,
